@@ -1,0 +1,48 @@
+#a{
+    border: solid;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#b{
+    border: double;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#c{
+    border: groove;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#d{
+    border: ridge;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#e{
+    border: inset;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#x{
+    border: outset;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#y{
+    border: dashed;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#z{
+    border: dotted;
+    border-color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

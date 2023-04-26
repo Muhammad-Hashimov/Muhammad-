@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+h1{
+    margin: 0px 5px 0px 3px;
+}
+p{
+    margin-left: 5px;
+}
+#x{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    margin-left: 5px;
+    
+    
+}
+#y{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    margin-left: 5px;
+}
