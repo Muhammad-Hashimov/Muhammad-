@@ -1,0 +1,145 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-1{
+     margin-left:  350px;
+    margin-top: 60px;
+    width: 800px;
+    height:200px;
+    background-color: cornflowerblue;
+     position: relative;  
+          
+}
+
+.box-1{
+    width: 200px;
+    height: 200px;
+    background-color:goldenrod;
+    position:absolute;
+    margin-left: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.box-2{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(10, 5, 152);
+    position:absolute;
+    margin-left: 270px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -30px;
+    
+}
+
+.box-2-1{
+    border:3px dotted black;
+    width: 200px;
+    height: 200px;
+    margin-left: 300px;
+}
+
+.box-3{
+    width: 200px;
+    height: 200px;
+    background-color:goldenrod;
+    position:absolute;
+    margin-left: 560px;
+     display:flex; 
+    align-items: center;
+    justify-content: center;  
+}
+
+.container-2{
+    margin-left:  350px;
+    margin-top: 60px;
+    width: 800px;
+    height:200px;
+    background-color: cornflowerblue;
+    position: relative;
+
+}
+
+.box-4{
+    width: 200px;
+    height: 200px;
+    background-color:goldenrod;
+    position:absolute;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-5{
+    width: 200px;
+    height: 200px;
+    background-color:goldenrod;
+    position:absolute;
+    right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container-3{
+    margin-left:  350px;
+    margin-top: 60px;
+    width: 800px;
+    height:200px;
+    background-color: cornflowerblue;
+    position: relative; 
+}
+
+.box-6{
+    width: 200px;
+    height:200px;
+    background-color: goldenrod;
+    position: absolute;
+    left: 40px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+     
+}
+
+.box-7{
+    width: 200px;
+    height:200px;
+    background-color:brown;
+    position: absolute;
+    left: 300px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.box-8{
+    width: 200px;
+    height:200px;
+    right: 40px;
+    background-color:goldenrod;
+    position: absolute;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.box-9{
+    top:0% ;
+    width: 200px;
+    height: 200px;
+    background-color:goldenrod;
+    position:absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

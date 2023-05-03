@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    border: 10px solid gray;
+    width: 50%;
+    font-size: 30px;
+    padding: 50px 15px;
+    margin: 15px 15px;
+    position: relative;
+}
+p{
+    background-color: blueviolet;
+    color: white;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 30px 150px 180px 30px;
+    border-radius: 10px;
+}
